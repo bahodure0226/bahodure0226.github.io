@@ -81,3 +81,8 @@ a {
 .navbar-nav li a:hover {
     color: #2e72a1 !important;
 }
+#movie {
+    background-color:white;
+    text-align:left;
+    border: 5px solid black;
+}
