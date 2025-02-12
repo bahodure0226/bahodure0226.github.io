@@ -86,3 +86,8 @@ a {
     text-align:left;
     border: 5px solid black;
 }
+#cyoa {
+    background-color:white;
+    text-align:right;
+    border: 5px solid black;
+}
